@@ -1,2 +1,2 @@
 # PasswordManager
-A website to store and manager passwords
+A website to store and manage passwords
