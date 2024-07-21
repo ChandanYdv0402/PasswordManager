@@ -1,2 +1,2 @@
-# PasswordManager
-A website to store and manage passwords
+# passx-password-manager
+ 
